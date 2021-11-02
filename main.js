@@ -2,7 +2,7 @@
         github : 'gleidisonsra',
         youtube :'channel/UC693jlEP6qS6tCa3A6ES5ZQ',
         facebook :'gleidisonsr',
-        instagram : 'sragleidison',
+        instagram : 'gleidisonsra',
         twitter :'@gleidisonsra'
      }
      function changeSocialMediaLinks() {    
