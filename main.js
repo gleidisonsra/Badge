@@ -1,6 +1,6 @@
       const linksSocialMedia = {
         github : 'gleidisonsra',
-        youtube :'UC693jlEP6qS6tCa3A6ES5ZQ',
+        youtube :'channel/UC693jlEP6qS6tCa3A6ES5ZQ',
         facebook :'gleidisonsr',
         instagram : 'sragleidison',
         twitter :'@gleidisonsra'
